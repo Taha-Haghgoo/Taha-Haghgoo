@@ -1,3 +1,21 @@
+  const me = { name: "Taha", lastname: "Haghgoo", age: 16 };
+
+const skills = [
+  "html",
+  "css",
+  "javascript",
+  "python",
+  "reactjs",
+  "php",
+  "mysql",
+  "sqlite",
+];
+
+const learning = [
+    "bootstrap",
+    "sass",
+]
+
   |hello there|
   |-----------|
         \   ^__^
