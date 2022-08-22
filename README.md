@@ -1,3 +1,11 @@
+  |hello there|
+  |-----------|
+        \   ^__^
+         \  (oO)\_______
+            (__)\       )\/\
+             U  ||----w |
+                ||     ||
+                
 ```javascript
 const me = { name: "Taha", lastname: "Haghgoo", age: 16 };
 
@@ -18,14 +26,6 @@ const learning = [
 ]
 ```
 
-  |hello there|
-  |-----------|
-        \   ^__^
-         \  (oO)\_______
-            (__)\       )\/\
-             U  ||----w |
-                ||     ||
-                
 I’m currently working on Jalinus <br>I'm learnin boostrap , reactjs
 
 
