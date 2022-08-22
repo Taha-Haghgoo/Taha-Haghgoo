@@ -1,4 +1,5 @@
-  const me = { name: "Taha", lastname: "Haghgoo", age: 16 };
+```javascript
+const me = { name: "Taha", lastname: "Haghgoo", age: 16 };
 
 const skills = [
   "html",
@@ -15,6 +16,7 @@ const learning = [
     "bootstrap",
     "sass",
 ]
+```
 
   |hello there|
   |-----------|
