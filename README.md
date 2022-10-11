@@ -1,12 +1,13 @@
  ```text
  -------------
- |hello there|
+( hello there )
  -------------
         \   ^__^
-         \  (oO)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             U  ||----w |
+                ||----w |
                 ||     ||
+
  
  ```
                 
@@ -42,6 +43,3 @@ I’m currently working on Jalinus <br>I'm learnin boostrap , reactjs
 ![](https://github-readme-stats.vercel.app/api?username=Taha-Haghgoo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Taha-Haghgoo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Haghgoo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
