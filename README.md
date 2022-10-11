@@ -11,26 +11,6 @@
  
  ```
                 
-```javascript
-const me = { name: "Taha", lastname: "Haghgoo", age: 16 };
-
-const skills = [
-  "html",
-  "css",
-  "javascript",
-  "python",
-  "reactjs",
-  "php",
-  "mysql",
-  "sqlite",
-];
-
-const learning = [
-    "bootstrap",
-    "sass",
-]
-```
-
 I’m currently working on Jalinus <br>I'm learnin boostrap , reactjs
 
 
